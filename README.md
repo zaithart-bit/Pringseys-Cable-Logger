@@ -21,15 +21,9 @@ Right-click quick status changes
 Last seen tracking for each cable
 
 Installation:
-Option 1: Installer (recommended)
-Download the latest installer from Releases and run:
-PringseysCableLoggerInstaller.exe
+For V1.0.1 just install the EXE file and run it.
 
-Option 2: Run from source
-Requires Python 3
-Run:
-python cable-app.py
-
+V1.0.0 is bugged, and non functional.
 How it works:
 Each cable entry stores name, type, length, quantity, status, location, and last seen timestamp. All data is saved locally in a JSON file and updates automatically while using the app.
 
