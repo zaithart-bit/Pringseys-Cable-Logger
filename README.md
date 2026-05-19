@@ -24,6 +24,7 @@ Installation:
 For V1.0.1 just install the EXE file and run it.
 
 V1.0.0 is bugged, and non functional.
+
 How it works:
 Each cable entry stores name, type, length, quantity, status, location, and last seen timestamp. All data is saved locally in a JSON file and updates automatically while using the app.
 
